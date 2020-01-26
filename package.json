@@ -1,0 +1,14 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "This a project for FSDI 107",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandra Christison",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
